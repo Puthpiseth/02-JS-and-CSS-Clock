@@ -3,4 +3,4 @@
 ## Project link
 
 ## Application Layout
-![](ProjectMockup.png)
+![](ProjectMockUp.png)
